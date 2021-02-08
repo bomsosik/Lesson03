@@ -33,6 +33,7 @@ p{
 }
 #img {
     box-shadow: 5px 5px #008891;
+    float : none;
 }
 li {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
